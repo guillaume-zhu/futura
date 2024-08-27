@@ -1,0 +1,15 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Merriweather';
+}
+
+p {
+  font-family: 'Roboto';
+}
