@@ -26,7 +26,7 @@ import data from './assets/data/articles.json'
 
 <style scoped>
 .card-section {
-  border: 1px solid purple;
+  /* border: 1px solid purple; */
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
